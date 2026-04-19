@@ -16,7 +16,7 @@ I'm a **sophomore at Columbia University** studying Computer Science. I have a s
 
 I'm passionate about understanding user needs and approaching problems with a **product mindset** — turning ideas into practical, user-facing features.
 
-When I'm not on my computer, you'll find me 🎵 **making music**, 🕺 **breakdancing**, or 🥋 **grappling with my sparring mates** on the mats.
+When I'm not on my computer, you'll find me 🎵 **making music**, 🕺 **breakdancing**, or 🥋 **grappling** on the mats.
 
 ---
 
