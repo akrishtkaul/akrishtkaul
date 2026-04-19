@@ -12,9 +12,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **sophomore at Columbia University** studying Computer Science. Whether it's building a full-stack web app, designing firmware for a race car, or shipping an AI feature, I love taking ideas from concept to reality.
+I'm a **sophomore at Columbia University** studying Computer Science. I have a strong foundation in software engineering with a hardware background from my freshman year at Boston University studying Computer Engineering! I enjoy working on full-stack webapps, integrating AI into different platforms and services, and also doing embedded projects.
 
-I have a strong foundation in software engineering with experience across the stack, and I enjoy working on projects that combine **hardware and software** in creative ways. I'm passionate about understanding user needs and approaching problems with a **product mindset** — turning ideas into practical, user-facing features.
+I'm passionate about understanding user needs and approaching problems with a **product mindset** — turning ideas into practical, user-facing features.
 
 When I'm not coding or sketching circuits, you'll find me 🎵 **making music**, 🕺 **breakdancing**, or 🥋 **grappling with my sparring mates** on the mats.
 
@@ -56,10 +56,9 @@ Developing **safety-critical embedded firmware** for an electric race car — bu
 ## 📚 Currently Learning
 
 ```python
-learning = {
-    "AI Engineering": ["RAG", "Agents", "Function Calling", "Prompt Engineering"],
-    "Embedded Systems": ["Real-time OS", "Safety-critical software", "STM32 firmware"],
-    "Interests": ["AI + Finance", "AI + Healthcare", "Hardware-software integration"]
+learning = { "AI Engineering": ["RAG", "LLM Agents", "Function Calling", "Vector Databases", "Prompt Engineering"],
+            "Embedded Systems": [ "Safety-Critical Firmware", "STM32 Programming", "CAN Bus", "SPI/I2C"],
+            "Cloud & Infrastructure": ["AWS", "Docker", "CI/CD",  "Database Design"]
 }
 ```
 
@@ -97,17 +96,6 @@ learning = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🤝 Looking to Collaborate On
-
-- 🤖 AI-powered tools and applications
-- 💰 Fintech products and trading systems
-- 📚 Projects that make technical concepts accessible to beginners
-- 🔧 Hardware-software integration projects
-
-**Especially interested in:** AI + Finance • AI + Healthcare • AI + Education
 
 ---
 
