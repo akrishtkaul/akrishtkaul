@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/Email-akrishtkaul%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akrishtkaul@gmail.com)
 [![Website](https://img.shields.io/badge/Website-akrishtkaul.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.akrishtkaul.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akrishtkaul/)
 
 </div>
 
