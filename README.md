@@ -16,7 +16,7 @@ I'm a **sophomore at Columbia University** studying Computer Science. I have a s
 
 I'm passionate about understanding user needs and approaching problems with a **product mindset** — turning ideas into practical, user-facing features.
 
-When I'm not coding or sketching circuits, you'll find me 🎵 **making music**, 🕺 **breakdancing**, or 🥋 **grappling with my sparring mates** on the mats.
+When I'm not on my computer, you'll find me 🎵 **making music**, 🕺 **breakdancing**, or 🥋 **grappling with my sparring mates** on the mats.
 
 ---
 
@@ -35,6 +35,7 @@ A full-stack AI fitness trainer with **RAG-based coaching** that retrieves your 
 - OpenAI GPT-4o mini
 - ExerciseDB API
 
+
 </td>
 <td width="50%">
 
@@ -47,6 +48,7 @@ Developing **safety-critical embedded firmware** for an electric race car — bu
 - Sub-100ms response times
 - Fail-safe operation
 
+  
 </td>
 </tr>
 </table>
@@ -56,7 +58,8 @@ Developing **safety-critical embedded firmware** for an electric race car — bu
 ## 📚 Currently Learning
 
 ```python
-learning = { "AI Engineering": ["RAG", "LLM Agents", "Function Calling", "Vector Databases", "Prompt Engineering"],
+learning = {
+            "AI Engineering": ["RAG", "LLM Agents", "Function Calling", "Vector Databases", "Prompt Engineering"],
             "Embedded Systems": [ "Safety-Critical Firmware", "STM32 Programming", "CAN Bus", "SPI/I2C"],
             "Cloud & Infrastructure": ["AWS", "Docker", "CI/CD",  "Database Design"]
 }
