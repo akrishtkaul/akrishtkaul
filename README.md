@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Akrisht
+# Hi there! I'm Akrisht!
 
 [![Email](https://img.shields.io/badge/Email-akrishtkaul%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akrishtkaul@gmail.com)
 [![Website](https://img.shields.io/badge/Website-akrishtkaul.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.akrishtkaul.com)
