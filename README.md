@@ -14,7 +14,7 @@
 
 I'm a **sophomore at Columbia University** studying Computer Science. I have a strong foundation in software engineering with a hardware background from my freshman year at Boston University studying Computer Engineering! I enjoy working on full-stack webapps, integrating AI into different platforms and services, and also doing embedded projects.
 
-I'm passionate about understanding user needs and approaching problems with a **product mindset** — turning ideas into practical, user-facing features.
+I'm passionate about understanding user needs and turning ideas into practical, user-facing features.
 
 When I'm not on my computer, you'll find me 🎵 **making music**, 🕺 **breakdancing**, or 🥋 **grappling** on the mats.
 
