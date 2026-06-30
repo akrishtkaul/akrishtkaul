@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **sophomore at Columbia University** studying Computer Science. I have a strong foundation in software engineering with a hardware background from my freshman year at Boston University studying Computer Engineering! I enjoy working on full-stack webapps, integrating AI into different platforms and services, and also doing embedded projects. I'm passionate about understanding user needs and turning ideas into practical, user-facing features.
+I'm a **junior at Columbia University** studying Computer Science. I have a strong foundation in software engineering with a hardware background from my freshman year at Boston University studying Computer Engineering! I'm currently a **Backend Engineer intern at Eulerity**, an AI-driven ad platform, building backend features in Java 17 and Spring Boot. I enjoy working on full-stack webapps, integrating AI into different platforms and services, and also doing embedded projects. I'm passionate about understanding user needs and turning ideas into practical, user-facing features.
 
 When I'm not on my computer, you'll find me 🎵 **making music**, 🕺 **breakdancing**, or 🥋 **grappling** on the mats.
 
@@ -24,21 +24,21 @@ When I'm not on my computer, you'll find me 🎵 **making music**, 🕺 **breakd
 <tr>
 <td width="50%">
 
-### 💪 [FitBro](https://github.com/akrishtkaul/fitbro)
-A full-stack AI fitness trainer with **RAG-based coaching** that retrieves your actual workout history to deliver personalized advice.
+### ♻️ [WasteWise](https://github.com/akrishtkaul/wastewise)
+A municipal waste lookup app for the **Town of Hempstead** that tells residents what gets collected, when, and how to handle special disposal.
 
 **Tech Stack:**
-- React + FastAPI
-- MongoDB Atlas
-- OpenAI GPT-4o mini
-- ExerciseDB API
+- React Native + Expo
+- FastAPI
+- Supabase
+- AI document parsing with provenance tracking
 
 
 </td>
 <td width="50%">
 
 ### 🏎️ Columbia Formula SAE
-Developing **safety-critical embedded firmware** for an electric race car — building a high-voltage battery management system.
+Developing **safety-critical embedded firmware** for an electric race car, building a high-voltage battery management system.
 
 **Key Features:**
 - Monitors 14 battery cells
@@ -77,6 +77,7 @@ learning = {
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -85,6 +86,7 @@ learning = {
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
