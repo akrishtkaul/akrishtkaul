@@ -24,14 +24,12 @@ When I'm not on my computer, you'll find me 🎵 **making music**, 🕺 **breakd
 <tr>
 <td width="50%">
 
-### ♻️ [WasteWise](https://github.com/akrishtkaul/wastewise)
-A municipal waste lookup app for the **Town of Hempstead** that tells residents what gets collected, when, and how to handle special disposal.
+### 🍷 Glug
+Founding engineer on a **Beli-style iOS app** for logging and ranking wines, now at 50 users. I ship frontend features in React Native and own the app's social layer.
 
 **Tech Stack:**
-- React Native + Expo
-- FastAPI
-- Supabase
-- AI document parsing with provenance tracking
+- React Native
+- Supabase + PostgreSQL
 
 
 </td>
@@ -52,12 +50,14 @@ Developing **safety-critical embedded firmware** for an electric race car, build
 <tr>
 <td colspan="2">
 
-### 🍷 Glug
-Founding engineer on a **Beli-style iOS app** for logging and ranking wines, now at 50 users. I ship frontend features in React Native and own the app's social layer.
+### ♻️ [WasteWise](https://github.com/akrishtkaul/wastewise)
+A municipal waste lookup app for the **Town of Hempstead** that tells residents what gets collected, when, and how to handle special disposal.
 
 **Tech Stack:**
-- React Native
-- Supabase + PostgreSQL
+- React Native + Expo
+- FastAPI
+- Supabase
+- AI document parsing with provenance tracking
 
 </td>
 </tr>
