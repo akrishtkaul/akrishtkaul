@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **junior at Columbia University** studying Computer Science. I'm currently a **Backend Engineer intern at Eulerity**, an AI-driven ad platform, building backend features in Java 17 and Spring Boot. I enjoy working on full-stack webapps, integrating AI into different platforms and services, and also doing embedded projects. I'm passionate about understanding user needs and turning ideas into practical, user-facing features.
+I'm a **junior at Columbia University** studying Computer Science. I'm currently a **Backend Engineer intern at Eulerity**, an AI-driven ad platform, building backend features in Java 17 and Spring Boot and an autonomous triage agent for our on-call rotation. I'm also the **founding engineer at Glug**, **Head of Firmware for Columbia Formula SAE**, and a TA for Columbia's Artificial Intelligence course. I enjoy working on full-stack webapps, integrating AI into different platforms and services, and also doing embedded projects. I'm passionate about understanding user needs and turning ideas into practical, user-facing features.
 
 When I'm not on my computer, you'll find me 🎵 **making music**, 🕺 **breakdancing**, or 🥋 **grappling** on the mats.
 
@@ -38,15 +38,27 @@ A municipal waste lookup app for the **Town of Hempstead** that tells residents 
 <td width="50%">
 
 ### 🏎️ Columbia Formula SAE
-Developing **safety-critical embedded firmware** for an electric race car, building a high-voltage battery management system.
+Developing **safety-critical embedded firmware** for an electric race car, building a high-voltage battery management system and the driver's steering-wheel dashboard.
 
 **Key Features:**
 - Monitors 14 battery cells
-- Real-time fault handling
-- Sub-100ms response times
+- 10 ms contactor response, 100 ms CAN fault broadcast
 - Fail-safe operation
+- Steering-wheel dashboard for the 2027 car (C/C++ + React)
 
   
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🍷 Glug
+Founding engineer on a **Beli-style iOS app** for logging and ranking wines, now at 50 users. I ship frontend features in React Native and own the app's social layer.
+
+**Tech Stack:**
+- React Native
+- Supabase + PostgreSQL
+
 </td>
 </tr>
 </table>
@@ -77,6 +89,8 @@ learning = {
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -99,6 +113,7 @@ learning = {
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -107,7 +122,7 @@ learning = {
 ## 💬 Ask Me About
 
 - 🏎️ Building safety-critical firmware for Formula SAE race cars
-- 🤖 Transitioning from frontend to full-stack AI engineering
+- 🤖 Building AI agents with guardrails (the guardrails are the product)
 - 🎯 Designing user-centered products
 - 🥋 Why Brazilian jiu-jitsu is the best debugging metaphor
 
